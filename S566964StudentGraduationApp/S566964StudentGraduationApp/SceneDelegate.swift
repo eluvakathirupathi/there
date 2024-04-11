@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  thiru
+//  S566964StudentGraduationApp
 //
-//  Created by Thirupathi Eluvaka on 4/11/24.
+//  Created by Thirupathi Eluvaka on 4/4/24.
 //
 
 import UIKit
